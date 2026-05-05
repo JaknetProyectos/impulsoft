@@ -14,6 +14,32 @@ export const plansSpanish: Plan[] = [
     ],
   },
   {
+    id: "ideal",
+    name: "Ideal",
+    description:
+      "Ideal para personas con idea de proyecto que aún no están listas para invertir en desarrollo completo.",
+    price: 870,
+    sku: "PLAN-2510-0004-BB7A",
+    features: [
+      "Asesoría de 1 hora sobre estructura de sitio web y app móvil (sin desarrollo).",
+      "Wireframe básico (boceto) para 1 pantalla de sitio web o app móvil.",
+      "Checklist de recomendaciones técnicas y diseño.",
+    ],
+  },
+  {
+    id: "descubrimiento",
+    name: "Descubrimiento",
+    description:
+      "Ideal para freelancers, emprendedores que necesitan validar su idea o tener presencia digital básica.",
+    price: 1800,
+    sku: "PLAN-2510-0005-FCAE",
+    features: [
+      "Diseño de una landing page sencilla (una sección tipo scroll, responsive).",
+      "Prototipo básico de app móvil (no funcional, solo diseño) o asesoría para estructurarla.",
+      "10 días de soporte limitado vía correo electrónico para ajustes menores.",
+    ],
+  },
+  {
     id: "plan-estandar",
     name: "Estándar",
     description: "Date a conocer y comienza a relacionarte con tu mercado meta",

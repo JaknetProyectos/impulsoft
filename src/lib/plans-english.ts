@@ -14,6 +14,32 @@ export const plansEnglish: Plan[] = [
     ],
   },
   {
+    id: "ideal",
+    name: "Ideal",
+    description:
+      "Ideal for people with a project idea who are not yet ready to invest in full development.",
+    price: 870,
+    sku: "PLAN-2510-0004-BB7A",
+    features: [
+      "1-hour consulting session on website and mobile app structure (no development).",
+      "Basic wireframe (sketch) for 1 screen of a website or mobile app.",
+      "Checklist of technical and design recommendations.",
+    ],
+  },
+  {
+    id: "descubrimiento",
+    name: "Discovery",
+    description:
+      "Ideal for freelancers and entrepreneurs who need to validate their idea or establish a basic digital presence.",
+    price: 1800,
+    sku: "PLAN-2510-0005-FCAE",
+    features: [
+      "Design of a simple landing page (single scroll-type section, responsive).",
+      "Basic mobile app prototype (non-functional, design only) or consulting to structure it.",
+      "10 days of limited email support for minor adjustments.",
+    ],
+  },
+  {
     id: "plan-estandar",
     name: "Standard",
     description: "Get known and start connecting with your target market",

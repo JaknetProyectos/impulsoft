@@ -114,6 +114,9 @@ function ErpServicePageEN() {
                 },
             ]}
 
+            introImage="https://plus.unsplash.com/premium_photo-1663040543387-cb7c78c4f012?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            heroImage="https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
             footerTitle="Discover the plans we have for you"
             footerDescription="Centralize your operations, automate processes, and make better decisions with a custom-built ERP system."
             footerCtaLabel="View plans"

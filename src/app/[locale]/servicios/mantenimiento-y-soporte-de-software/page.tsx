@@ -71,7 +71,8 @@ function MaintenanceServicePageEN() {
 
       title="Software Maintenance and Support"
       subtitle="Continuous and reliable support"
-
+      heroImage="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      introImage="https://images.unsplash.com/photo-1619410283995-43d9134e7656?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       heroDescription="We provide ongoing maintenance and support services to ensure optimal performance and security across your applications and software systems."
 
       primaryCtaLabel="View plans"

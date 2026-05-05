@@ -119,6 +119,8 @@ function ApiIntegrationServicePageEN() {
           icon: <ShieldCheck className="h-5 w-5" />,
         },
       ]}
+      heroImage="https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      introImage="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
       footerTitle="Discover the plans we have for you"
       footerDescription="Integrate your systems, automate processes, and take your business efficiency to the next level."

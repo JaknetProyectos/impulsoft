@@ -159,7 +159,7 @@ export function ServicePage({
                         </div>
 
                        <GlassPanel className="overflow-hidden p-0">
-                        {typeof heroImage === "string" ? (
+                        {typeof heroImage == "string" ? (
                             <img
                                 src={heroImage}
                                 alt={title}

@@ -21,15 +21,15 @@ export default function Services() {
     },
     {
       title: t("items.api"),
-      icon: "https://ext.same-assets.com/6640246/3116827902.png",
+      icon: "https://blog.postman.com/wp-content/uploads/2020/07/API-101-What-Is-a-REST-API-scaled.jpg",
     },
     {
       title: t("items.uiux"),
-      icon: "https://ext.same-assets.com/6640246/1203963643.png",
+      icon: "https://fireartstudio.s3-accelerate.amazonaws.com/wp-content/uploads/2018/01/image4-1-1.gif",
     },
     {
       title: t("items.erp"),
-      icon: "https://ext.same-assets.com/6640246/3555249782.jpeg",
+      icon: "/erp.png",
     },
   ];
 

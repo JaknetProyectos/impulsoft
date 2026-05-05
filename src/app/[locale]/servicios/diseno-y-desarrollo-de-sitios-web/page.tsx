@@ -10,38 +10,13 @@ function ServicePageExample() {
         subtitle: "Diseño web a medida",
         heroDescription:
             "Diseñamos y desarrollamos sitios web a medida que reflejen la identidad de tu marca, a la par de ofrecer una experiencia de usuario excepcional.",
-        heroImage: (
-            <div className="flex min-h-[320px] items-center justify-center rounded-[28px] border border-slate-800 bg-[#141a22] p-6">
-                <div className="grid gap-4 text-center">
-                    <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-indigo-500/15 text-indigo-300 ring-1 ring-indigo-500/20">
-                        <PenTool className="h-7 w-7" />
-                    </div>
-                    <div>
-                        <p className="text-lg font-semibold text-white">Sitios que convierten</p>
-                        <p className="mt-2 max-w-sm text-sm leading-6 text-slate-400">
-                            Una experiencia visual sólida, estructura clara y enfoque profesional.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        ),
+        heroImage: "https://loop-media.co/wp-content/uploads/2025/01/Complete-Guide-to-Web-Development-and-Design.jpg",
+        introImage: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         primaryCtaLabel: "Solicitar una cotización",
         secondaryCtaLabel: "Ver planes",
         introTitle: "Diseño de páginas web creativas",
         introDescription: "Porque cada empresa es diferente.",
-        introImage: (
-            <div className="flex min-h-[320px] items-center justify-center rounded-[28px] border border-slate-800 bg-[#141a22] p-6">
-                <div className="grid gap-3 text-center">
-                    <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-cyan-500/15 text-cyan-300 ring-1 ring-cyan-500/20">
-                        <LayoutGrid className="h-7 w-7" />
-                    </div>
-                    <p className="text-lg font-semibold text-white">Diseño profesional</p>
-                    <p className="max-w-sm text-sm leading-6 text-slate-400">
-                        Visual, consistente y listo para distintos tipos de negocio.
-                    </p>
-                </div>
-            </div>
-        ),
+
         introBullets: [
             "Diseñamos y desarrollamos sitios web a medida.",
             "Diseño que refleja la identidad de tu marca.",
@@ -99,21 +74,7 @@ function WebServicePageEN() {
 
             heroDescription="We design and develop custom websites that reflect your brand identity while delivering an exceptional user experience."
 
-            heroImage={
-                <div className="flex min-h-[320px] items-center justify-center rounded-[28px] border border-slate-800 bg-[#141a22] p-6">
-                    <div className="grid gap-4 text-center">
-                        <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-indigo-500/15 text-indigo-300 ring-1 ring-indigo-500/20">
-                            <PenTool className="h-7 w-7" />
-                        </div>
-                        <div>
-                            <p className="text-lg font-semibold text-white">High-converting websites</p>
-                            <p className="mt-2 max-w-sm text-sm leading-6 text-slate-400">
-                                A strong visual experience, clear structure, and professional focus.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            }
+
 
             primaryCtaLabel="Request a quote"
             secondaryCtaLabel="View plans"
@@ -121,19 +82,8 @@ function WebServicePageEN() {
             introTitle="Creative website design"
             introDescription="Because every business is different."
 
-            introImage={
-                <div className="flex min-h-[320px] items-center justify-center rounded-[28px] border border-slate-800 bg-[#141a22] p-6">
-                    <div className="grid gap-3 text-center">
-                        <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-cyan-500/15 text-cyan-300 ring-1 ring-cyan-500/20">
-                            <LayoutGrid className="h-7 w-7" />
-                        </div>
-                        <p className="text-lg font-semibold text-white">Professional design</p>
-                        <p className="max-w-sm text-sm leading-6 text-slate-400">
-                            Visual, consistent, and suitable for different types of businesses.
-                        </p>
-                    </div>
-                </div>
-            }
+            heroImage="https://loop-media.co/wp-content/uploads/2025/01/Complete-Guide-to-Web-Development-and-Design.jpg"
+            introImage="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
             introBullets={[
                 "We design and develop custom websites.",
