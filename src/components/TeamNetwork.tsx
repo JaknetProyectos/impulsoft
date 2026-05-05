@@ -32,7 +32,7 @@ export default function TeamNetwork() {
               <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <div className="w-14 h-14 bg-[#11151c] border border-slate-700 rounded-full overflow-hidden shadow-md">
                   <Image
-                    src="https://ext.same-assets.com/6640246/1967950354.png"
+                    src="https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     alt={t("avatarAlt")}
                     width={56}
                     height={56}
@@ -55,7 +55,7 @@ export default function TeamNetwork() {
               <div className="absolute bottom-0 left-1/4 translate-y-1/2">
                 <div className="w-12 h-12 bg-[#11151c] border border-slate-700 rounded-full overflow-hidden shadow-md">
                   <Image
-                    src="https://ext.same-assets.com/6640246/1599619118.png"
+                    src="https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     alt={t("avatarAlt")}
                     width={48}
                     height={48}

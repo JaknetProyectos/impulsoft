@@ -1,360 +1,360 @@
 {
   "CartPage": {
-    "backToStore": "Volver a la tienda",
+    "backToStore": "Regresar a la tienda",
     "hero": {
-      "kicker": "Checkout",
-      "title": "Carrito de Compras"
+      "kicker": "Finalizar compra",
+      "title": "Tu Carrito"
     },
     "empty": {
-      "title": "Tu carrito está vacío",
-      "description": "Explora nuestros planes y encuentra la solución perfecta para tu negocio.",
-      "cta": "Ver Planes"
+      "title": "No hay productos en tu carrito",
+      "description": "Descubre nuestros planes y elige la opción ideal para tu empresa.",
+      "cta": "Explorar Planes"
     },
     "item": {
-      "includes": "Incluye:",
-      "more": "+{count} más..."
+      "includes": "Contiene:",
+      "more": "+{count} adicionales..."
     },
-    "taxLabel": "+ IVA",
+    "taxLabel": "+ Impuestos",
     "summary": {
-      "title": "Resumen y pago",
+      "title": "Resumen de compra",
       "subtotal": "Subtotal",
       "iva": "IVA (16%)",
-      "total": "Total",
-      "order": "Orden: {orderId}"
+      "total": "Importe total",
+      "order": "Pedido: {orderId}"
     },
     "sections": {
-      "customer": "Datos del cliente",
-      "billing": "Dirección de facturación",
-      "card": "Datos de tarjeta"
+      "customer": "Información del cliente",
+      "billing": "Datos de facturación",
+      "card": "Información de pago"
     },
     "form": {
-      "nombre": "Nombre completo",
-      "email": "Email",
-      "telefono": "Teléfono",
-      "direccion": "Dirección",
-      "ciudad": "Ciudad",
-      "estado": "Estado",
-      "pais": "País",
+      "nombre": "Nombre y apellidos",
+      "email": "Correo electrónico",
+      "telefono": "Número telefónico",
+      "direccion": "Domicilio",
+      "ciudad": "Municipio o ciudad",
+      "estado": "Estado o provincia",
+      "pais": "País de residencia",
       "cp": "Código postal",
-      "cardNumber": "Número de tarjeta",
-      "cardName": "Nombre en la tarjeta",
+      "cardNumber": "Tarjeta bancaria",
+      "cardName": "Titular de la tarjeta",
       "month": "Mes",
       "year": "Año",
-      "cvv": "CVV"
+      "cvv": "Código CVV"
     },
     "placeholders": {
-      "nombre": "Nombre completo",
-      "email": "Email",
-      "telefono": "Teléfono",
-      "direccion": "Dirección",
-      "ciudad": "Ciudad",
-      "estado": "Estado",
-      "pais": "País",
+      "nombre": "Nombre y apellidos",
+      "email": "Correo electrónico",
+      "telefono": "Número telefónico",
+      "direccion": "Domicilio",
+      "ciudad": "Municipio o ciudad",
+      "estado": "Estado o provincia",
+      "pais": "País de residencia",
       "cp": "Código postal",
-      "cardNumber": "Número de tarjeta",
-      "cardName": "Nombre en la tarjeta",
+      "cardNumber": "Tarjeta bancaria",
+      "cardName": "Titular de la tarjeta",
       "month": "MM",
-      "year": "YY",
+      "year": "AA",
       "cvv": "CVV"
     },
     "validation": {
-      "required": "Este campo es obligatorio.",
-      "emailInvalid": "Ingresa un email válido.",
-      "phoneInvalid": "Ingresa un teléfono válido.",
-      "postalCodeInvalid": "Ingresa un código postal válido.",
-      "cardNumberInvalid": "Ingresa un número de tarjeta válido.",
-      "monthInvalid": "Mes inválido.",
-      "yearInvalid": "Ingresa 2 dígitos.",
-      "cvvInvalid": "CVV inválido."
+      "required": "Este campo no puede quedar vacío.",
+      "emailInvalid": "Introduce un correo válido.",
+      "phoneInvalid": "Introduce un número telefónico válido.",
+      "postalCodeInvalid": "Introduce un código postal correcto.",
+      "cardNumberInvalid": "El número de tarjeta no es válido.",
+      "monthInvalid": "El mes ingresado no es válido.",
+      "yearInvalid": "Ingresa un año válido de 2 dígitos.",
+      "cvvInvalid": "El CVV ingresado es incorrecto."
     },
     "alerts": {
       "emptyCart": {
-        "title": "Carrito vacío",
-        "message": "Agrega un plan antes de continuar con el pago.",
-        "confirm": "Entendido"
+        "title": "Carrito sin productos",
+        "message": "Añade un plan antes de continuar con tu compra.",
+        "confirm": "Aceptar"
       },
       "reviewData": {
-        "title": "Revisa tus datos",
-        "message": "Hay campos obligatorios o datos de tarjeta que necesitan corrección.",
-        "confirm": "Corregir"
+        "title": "Verifica tu información",
+        "message": "Existen campos obligatorios o datos bancarios incorrectos.",
+        "confirm": "Editar datos"
       },
       "success": {
-        "title": "Pago aprobado",
-        "message": "Tu pago se procesó correctamente. Recibirás un correo con tu comprobante.",
-        "confirm": "Excelente"
+        "title": "Pago realizado",
+        "message": "Tu transacción fue exitosa. Recibirás un comprobante por correo.",
+        "confirm": "Perfecto"
       },
       "error": {
-        "title": "Pago no completado",
-        "message": "No se pudo procesar el pago.",
-        "fallback": "No se pudo procesar el pago.",
-        "confirm": "Reintentar"
+        "title": "Error en el pago",
+        "message": "Hubo un inconveniente al procesar el pago.",
+        "fallback": "No fue posible completar el pago.",
+        "confirm": "Intentar nuevamente"
       }
     },
     "buttons": {
-      "pay": "Proceder al pago",
-      "processing": "Procesando..."
+      "pay": "Continuar con el pago",
+      "processing": "Procesando pago..."
     },
     "security": {
-      "message": "Pago seguro garantizado"
+      "message": "Transacción protegida y segura"
     },
-    "paymentMethods": "Métodos de pago aceptados"
+    "paymentMethods": "Formas de pago disponibles"
   },
   "header": {
     "nav": {
-      "home": "Inicio",
-      "about": "Nosotros",
-      "services": "Servicios",
-      "plans": "Planes",
-      "contact": "Contacto"
+      "home": "Principal",
+      "about": "Quiénes somos",
+      "services": "Soluciones",
+      "plans": "Paquetes",
+      "contact": "Contáctanos"
     },
-    "cta": "Ver planes",
+    "cta": "Explorar planes",
     "services": {
       "items": {
-        "mobile": "Desarrollo de aplicaciones móviles",
-        "web": "Diseño y desarrollo de sitios web",
-        "maintenance": "Mantenimiento y soporte de software",
-        "uiux": "Desarrollo de Interfaces (UI/UX)",
-        "api": "Integración de API",
-        "erp": "Sistemas ERP"
+        "mobile": "Apps móviles",
+        "web": "Creación y diseño web",
+        "maintenance": "Soporte y mantenimiento tecnológico",
+        "uiux": "Diseño de experiencia e interfaces UI/UX",
+        "api": "Conexión e integración de API",
+        "erp": "Plataformas ERP"
       }
     }
   },
   "contact": {
     "hero": {
-      "badge": "Contáctanos",
-      "title": "¿Listo para llevar tu negocio al siguiente nivel?",
-      "description": "Contáctanos hoy mismo para conocer las necesidades de tu negocio y comenzar a trabajar juntos."
+      "badge": "Ponte en contacto",
+      "title": "¿Quieres impulsar tu negocio al siguiente nivel?",
+      "description": "Escríbenos y cuéntanos las necesidades de tu empresa para comenzar a colaborar."
     },
     "cards": {
       "address": {
-        "title": "Dirección",
+        "title": "Ubicación",
         "value": "PARQUE DE GRANADA 71, INTERIOR 504 B,\nCOLONIA PARQUES DE LA HERRADURA,\nALCALDÍA HUIXQUILUCAN, C.P. 52786,\nESTADO DE MÉXICO"
       },
       "email": {
-        "title": "Email",
+        "title": "Correo",
         "value": "contacto@impulsoftwareware.com"
       },
       "phone": {
-        "title": "Teléfono",
+        "title": "Línea telefónica",
         "value": "+52 55 5206 3047"
       }
     },
-    "cta": "Contáctanos hoy mismo para discutir las necesidades de tu empresa y trabajar juntos en tu próximo proyecto."
+    "cta": "Comunícate con nosotros para analizar las necesidades de tu empresa y desarrollar juntos tu próximo proyecto."
   },
   "about": {
     "hero": {
-      "badge": "Sobre Nosotros",
-      "title": "Ofrecemos soluciones innovadoras y de calidad en el desarrollo de interfaces y software",
-      "description": "Somos una empresa dedicada al desarrollo de soluciones tecnológicas innovadoras. Nuestro equipo de profesionales combina experiencia técnica con creatividad para entregar productos que superan las expectativas de nuestros clientes."
+      "badge": "Quiénes somos",
+      "title": "Creamos soluciones tecnológicas innovadoras y de alta calidad",
+      "description": "Nos especializamos en el desarrollo de tecnología innovadora. Nuestro equipo combina conocimiento técnico y creatividad para ofrecer soluciones que exceden las expectativas."
     },
     "digital": {
-      "title": "Digitalizamos tu empresa",
-      "description": "Te ayudamos a alcanzar tus objetivos, expandir tu negocio y mejorar cada día"
+      "title": "Transformamos digitalmente tu empresa",
+      "description": "Te acompañamos para alcanzar tus metas, hacer crecer tu negocio y evolucionar continuamente"
     },
     "services": [
-      "Desarrollo de aplicaciones móviles",
-      "Diseño y desarrollo de sitios web",
+      "Aplicaciones móviles",
+      "Diseño y creación de sitios web",
       "Sistemas ERP",
-      "Integración de API",
-      "Interfaces de usuario",
-      "Soporte y mantenimiento"
+      "Integración de APIs",
+      "Diseño de interfaces",
+      "Mantenimiento y soporte"
     ],
     "cta": {
-      "badge": "Nuestra empresa",
-      "title": "Soluciones tecnológicas efectivas para potenciar tu negocio",
-      "description": "Descubre cómo podemos ayudarte a llevar tu negocio al siguiente nivel.",
-      "objectiveTitle": "Nuestro objetivo:",
+      "badge": "Sobre nuestra empresa",
+      "title": "Tecnología eficiente para hacer crecer tu negocio",
+      "description": "Conoce cómo nuestras soluciones pueden ayudarte a evolucionar.",
+      "objectiveTitle": "Nuestra misión:",
       "objectives": [
-        "Tener mayor visibilidad en el mercado",
-        "Diseños personalizados para destacar",
-        "Aumento en tus ventas"
+        "Incrementar tu presencia en el mercado",
+        "Diseños únicos y personalizados",
+        "Impulsar tus ventas"
       ],
-      "button": "Solicitar una cotización"
+      "button": "Pedir cotización"
     }
   },
   "plans": {
-    "badge": "La grandeza inicia AQUÍ",
-    "title": "Nuestros Planes"
+    "badge": "El éxito comienza AQUÍ",
+    "title": "Planes Disponibles"
   },
   "customPlan": {
-    "title": "Plan Personalizado",
-    "breadcrumb": "impulsoftwareware> Plan Personalizado",
-    "planName": "Plan Personalizado",
-    "quoteLabel": "Cotización",
-    "feature": "Plan personalizado acordado con asesor",
+    "title": "Plan Hecho a Medida",
+    "breadcrumb": "impulsoftwareware> Plan Hecho a Medida",
+    "planName": "Plan Hecho a Medida",
+    "quoteLabel": "Presupuesto",
+    "feature": "Plan personalizado definido con un asesor",
     "contact": {
-      "title": "Contacta a un asesor",
-      "description": "Contacta a un asesor para obtener una cotización",
-      "button": "Contactar asesor"
+      "title": "Habla con un asesor",
+      "description": "Consulta con un asesor para recibir tu presupuesto",
+      "button": "Contactar ahora"
     },
     "form": {
-      "title": "Llena el formulario",
-      "description": "Ingresa aquí el ID y precio personalizado que te compartió tu asesor.",
-      "quoteId": "ID de cotización",
-      "price": "Monto a pagar"
+      "title": "Completa el formulario",
+      "description": "Ingresa el ID y el monto personalizado proporcionado por tu asesor.",
+      "quoteId": "Código de cotización",
+      "price": "Cantidad a pagar"
     },
     "totals": {
-      "options": "Monto de opciones",
-      "total": "Total"
+      "options": "Costo adicional",
+      "total": "Importe total"
     },
-    "cta": "Agregar al carrito"
+    "cta": "Añadir al carrito"
   },
   "teamNetwork": {
-    "title": "¿Listo para llevar tu negocio al siguiente nivel?",
-    "description": "Con nuestras soluciones de desarrollo de interfaces y software",
-    "cta": "Ver Planes",
-    "centerAvatarAlt": "Miembro del equipo",
-    "avatarAlt": "Avatar"
+    "title": "¿Preparado para impulsar tu negocio?",
+    "description": "Con nuestras soluciones en software y desarrollo de interfaces",
+    "cta": "Explorar Planes",
+    "centerAvatarAlt": "Integrante del equipo",
+    "avatarAlt": "Imagen de perfil"
   },
   "services": {
     "items": {
-      "mobile": "Desarrollo de aplicaciones móviles",
-      "web": "Diseño y desarrollo de sitios web",
-      "maintenance": "Mantenimiento y soporte de software",
-      "api": "Integración de API y desarrollo de soluciones de software a medida",
-      "uiux": "Desarrollo de Interfaces de Usuario (UI) y Experiencia de Usuario (UX)",
-      "erp": "Desarrollo de Sistemas de Gestión Empresarial (ERP)"
+      "mobile": "Creación de aplicaciones móviles",
+      "web": "Diseño y programación de sitios web",
+      "maintenance": "Soporte técnico y mantenimiento",
+      "api": "Integración de APIs y software personalizado",
+      "uiux": "Diseño de experiencia e interfaz de usuario",
+      "erp": "Sistemas de gestión empresarial ERP"
     }
   },
   "hero": {
     "badge": {
-      "start": "La grandeza inicia",
-      "highlight": "AQUI"
+      "start": "El éxito comienza",
+      "highlight": "AQUÍ"
     },
-    "title": "Soluciones tecnológicas para tu negocio.",
-    "cta": "Ver Nuestros Planes",
-    "imageAlt": "Ilustración de soluciones tecnológicas",
-    "decorativeAlt": "Elemento decorativo"
+    "title": "Tecnología inteligente para empresas.",
+    "cta": "Descubre Nuestros Planes",
+    "imageAlt": "Imagen de soluciones digitales",
+    "decorativeAlt": "Decoración visual"
   },
   "aboutSection": {
-    "title": "En nuestra búsqueda constante de la excelencia",
-    "subtitle": "Trabajamos para ofrecer a nuestros clientes:",
+    "title": "Comprometidos siempre con la excelencia",
+    "subtitle": "Brindamos a nuestros clientes:",
     "values": {
-      "innovation": "Innovación, calidad y colaboración.",
-      "ethics": "Ética y compromiso"
+      "innovation": "Creatividad, innovación y trabajo en equipo.",
+      "ethics": "Responsabilidad y compromiso"
     },
-    "note": "Nos mantenemos al tanto de las últimas tendencias y tecnologías",
-    "cta": "Conócenos",
-    "imageAlt": "Equipo trabajando"
+    "note": "Estamos siempre actualizados con las nuevas tecnologías y tendencias",
+    "cta": "Más sobre nosotros",
+    "imageAlt": "Equipo colaborando"
   },
   "pillars": {
-    "badge": "Nuestros pilares",
-    "title": "Innovación constante y compromiso con resultados",
-    "description": "Nuestros pilares de excelencia se reflejan en nuestro enfoque centrado en el cliente, la calidad de nuestros servicios y la innovación continua.",
-    "cta": "Ver Planes",
+    "badge": "Nuestros valores",
+    "title": "Innovación permanente y enfoque en resultados",
+    "description": "Nuestra excelencia se basa en la atención al cliente, la calidad de nuestros servicios y la mejora continua.",
+    "cta": "Explorar Planes",
     "items": {
       "innovation": {
-        "title": "Innovación",
-        "description": "Valoramos la creatividad y la originalidad en todo lo que hacemos."
+        "title": "Creatividad",
+        "description": "Impulsamos ideas originales e innovadoras en cada proyecto."
       },
       "quality": {
-        "title": "Calidad",
-        "description": "Nos comprometemos a mantener altos estándares de calidad en cada etapa de nuestros proyectos."
+        "title": "Excelencia",
+        "description": "Garantizamos altos estándares de calidad en todos nuestros procesos."
       },
       "collaboration": {
-        "title": "Colaboración",
-        "description": "Fomentamos un ambiente de colaboración y respeto con nuestro equipo interno y nuestros clientes."
+        "title": "Trabajo en equipo",
+        "description": "Promovemos relaciones colaborativas y de respeto con clientes y colaboradores."
       },
       "ethics": {
-        "title": "Ética",
-        "description": "Valoramos la honestidad y la transparencia en todas nuestras relaciones comerciales."
+        "title": "Transparencia",
+        "description": "Actuamos con honestidad y claridad en cada relación comercial."
       },
       "commitment": {
-        "title": "Compromiso",
-        "description": "Estamos comprometidos a escuchar las necesidades de nuestros clientes"
+        "title": "Responsabilidad",
+        "description": "Nos enfocamos en comprender y atender las necesidades de nuestros clientes"
       }
     }
   },
   "pricing": {
-    "title": "Diseñados para cada necesidad",
+    "title": "Opciones adaptadas a cada necesidad",
     "includes": "Incluye:",
-    "buy": "Comprar",
+    "buy": "Adquirir",
     "tax": "+ IVA",
     "cta": {
-      "badge": "¿Necesitas más?",
-      "title": "Hagamos un plan a tu medida",
-      "button": "Plan Personalizado"
+      "badge": "¿Buscas algo más?",
+      "title": "Diseñemos un plan exclusivo para ti",
+      "button": "Personalizar Plan"
     }
   },
   "contactSection": {
-    "badge": "Confía en nosotros",
-    "title": "Llevamos tus ideas a la implementación",
-    "description": "Ofrecemos servicios variados en desarrollo de software y diseño de interfaces intuitivas, equipándote con las herramientas y experiencia para sobresalir en un mercado competitivo.",
+    "badge": "Tu mejor aliado",
+    "title": "Convertimos tus ideas en realidad",
+    "description": "Brindamos soluciones en desarrollo de software y diseño de interfaces modernas para ayudarte a destacar en un entorno competitivo.",
     "highlights": {
-      "fastResponse": "Respuesta rápida",
-      "quality": "Calidad en el servicio"
+      "fastResponse": "Atención inmediata",
+      "quality": "Servicio de alta calidad"
     },
     "form": {
-      "title": "Solicita una cotización",
+      "title": "Solicita información",
       "fields": {
-        "name": "Nombre",
-        "phone": "Teléfono",
-        "email": "Email",
-        "subject": "Asunto",
-        "message": "Mensaje"
+        "name": "Nombre completo",
+        "phone": "Número telefónico",
+        "email": "Correo electrónico",
+        "subject": "Motivo",
+        "message": "Escribe tu mensaje"
       },
-      "submit": "Enviar",
-      "sending": "Enviando..."
+      "submit": "Enviar mensaje",
+      "sending": "Enviando información..."
     }
   },
   "ctaPanel": {
-    "badge": "Inicia ahora",
-    "title": "Descubre los planes que tenemos para ti",
-    "cta": "Ver Planes"
+    "badge": "Comienza hoy",
+    "title": "Conoce los planes ideales para ti",
+    "cta": "Explorar Planes"
   },
   "footer": {
-    "contactLabel": "Contacto directo",
+    "contactLabel": "Contacto inmediato",
     "navigation": {
-      "title": "Navegación",
+      "title": "Menú",
       "items": {
-        "about": "Nosotros",
+        "about": "Quiénes somos",
         "plans": "Planes",
-        "contact": "Contacto"
+        "contact": "Contáctanos"
       }
     },
     "policies": {
-      "title": "Políticas",
+      "title": "Avisos legales",
       "items": {
-        "terms": "Términos y condiciones",
-        "privacy": "Política de privacidad",
-        "refunds": "Políticas de devolución"
+        "terms": "Términos de servicio",
+        "privacy": "Aviso de privacidad",
+        "refunds": "Política de reembolsos"
       }
     },
     "services": {
-      "title": "Servicios",
+      "title": "Nuestras soluciones",
       "items": {
-        "mobile": "Apps móviles",
-        "web": "Sitios web",
+        "mobile": "Aplicaciones móviles",
+        "web": "Páginas web",
         "uiux": "Diseño UX/UI",
-        "support": "Soporte y mantenimiento",
-        "api": "Integración de API",
-        "erp": "Sistemas ERP"
+        "support": "Soporte técnico",
+        "api": "Servicios API",
+        "erp": "Soluciones ERP"
       }
     },
     "contact": {
-      "title": "Contacto",
-      "address": "Parque Granada 71\nCol. Parque de la Herradura,\nHuixquilucan, Edo Mex."
+      "title": "Ubicación",
+      "address": "Parque Granada 71\nCol. Parque de la Herradura,\nHuixquilucan, Edo. Mex."
     },
     "copyright": "© impulsoftwareware 2026. Todos los derechos reservados."
   },
   "cart": {
-    "title": "Carrito de Compras",
+    "title": "Tu carrito",
     "empty": {
-      "title": "Tu carrito está vacío",
-      "subtitle": "Agrega planes para comenzar",
-      "button": "Ir al carrito"
+      "title": "No hay elementos en tu carrito",
+      "subtitle": "Añade un plan para iniciar",
+      "button": "Ver carrito"
     },
     "summary": {
       "subtotal": "Subtotal",
       "tax": "IVA (16%)",
-      "total": "Total"
+      "total": "Monto total"
     },
-    "checkout": "Proceder al Pago"
+    "checkout": "Ir al Pago"
   },
-   "OfferModal": {
-    "title": "¡Gana un cupón de descuento!",
-    "description": "Llena el campo y prueba tu suerte. Podrás ganar un cupón de hasta 15% de descuento.",
-    "placeholder": "Correo electrónico",
-    "cta": "Enviar"
+  "OfferModal": {
+    "title": "¡Obtén un descuento especial!",
+    "description": "Ingresa tu correo y participa para ganar hasta un 15% de descuento.",
+    "placeholder": "Ingresa tu correo",
+    "cta": "Participar"
   }
 }
