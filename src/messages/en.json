@@ -1,0 +1,360 @@
+{
+  "CartPage": {
+    "backToStore": "Back to store",
+    "hero": {
+      "kicker": "Checkout",
+      "title": "Shopping Cart"
+    },
+    "empty": {
+      "title": "Your cart is empty",
+      "description": "Explore our plans and find the perfect solution for your business.",
+      "cta": "View Plans"
+    },
+    "item": {
+      "includes": "Includes:",
+      "more": "+{count} more..."
+    },
+    "taxLabel": "+ VAT",
+    "summary": {
+      "title": "Summary and payment",
+      "subtotal": "Subtotal",
+      "iva": "VAT (16%)",
+      "total": "Total",
+      "order": "Order: {orderId}"
+    },
+    "sections": {
+      "customer": "Customer details",
+      "billing": "Billing address",
+      "card": "Card details"
+    },
+    "form": {
+      "nombre": "Full name",
+      "email": "Email",
+      "telefono": "Phone",
+      "direccion": "Address",
+      "ciudad": "City",
+      "estado": "State",
+      "pais": "Country",
+      "cp": "Postal code",
+      "cardNumber": "Card number",
+      "cardName": "Name on card",
+      "month": "Month",
+      "year": "Year",
+      "cvv": "CVV"
+    },
+    "placeholders": {
+      "nombre": "Full name",
+      "email": "Email",
+      "telefono": "Phone",
+      "direccion": "Address",
+      "ciudad": "City",
+      "estado": "State",
+      "pais": "Country",
+      "cp": "Postal code",
+      "cardNumber": "Card number",
+      "cardName": "Name on card",
+      "month": "MM",
+      "year": "YY",
+      "cvv": "CVV"
+    },
+    "validation": {
+      "required": "This field is required.",
+      "emailInvalid": "Enter a valid email.",
+      "phoneInvalid": "Enter a valid phone number.",
+      "postalCodeInvalid": "Enter a valid postal code.",
+      "cardNumberInvalid": "Enter a valid card number.",
+      "monthInvalid": "Invalid month.",
+      "yearInvalid": "Enter 2 digits.",
+      "cvvInvalid": "Invalid CVV."
+    },
+    "alerts": {
+      "emptyCart": {
+        "title": "Cart is empty",
+        "message": "Add a plan before continuing with payment.",
+        "confirm": "Got it"
+      },
+      "reviewData": {
+        "title": "Review your details",
+        "message": "There are required fields or card details that need correction.",
+        "confirm": "Fix it"
+      },
+      "success": {
+        "title": "Payment approved",
+        "message": "Your payment was processed successfully. You will receive an email with your receipt.",
+        "confirm": "Great"
+      },
+      "error": {
+        "title": "Payment not completed",
+        "message": "The payment could not be processed.",
+        "fallback": "The payment could not be processed.",
+        "confirm": "Retry"
+      }
+    },
+    "buttons": {
+      "pay": "Proceed to payment",
+      "processing": "Processing..."
+    },
+    "security": {
+      "message": "Secure payment guaranteed"
+    },
+    "paymentMethods": "Accepted payment methods"
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "plans": "Plans",
+      "contact": "Contact"
+    },
+    "cta": "View plans",
+    "services": {
+      "items": {
+        "mobile": "Mobile app development",
+        "web": "Web design and development",
+        "maintenance": "Software maintenance and support",
+        "uiux": "UI/UX design and development",
+        "api": "API integration",
+        "erp": "ERP systems"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Contact us",
+      "title": "Ready to take your business to the next level?",
+      "description": "Contact us today to understand your business needs and start working together."
+    },
+    "cards": {
+      "address": {
+        "title": "Address",
+        "value": "PARQUE DE GRANADA 71, INTERIOR 504 B,\nPARQUES DE LA HERRADURA,\nHUIXQUILUCAN, ZIP 52786,\nSTATE OF MEXICO"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contacto@impulsoftwareware.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+52 55 5206 3047"
+      }
+    },
+    "cta": "Contact us today to discuss your company's needs and work together on your next project."
+  },
+  "about": {
+    "hero": {
+      "badge": "About Us",
+      "title": "We provide innovative and high-quality solutions in interface and software development",
+      "description": "We are a company dedicated to developing innovative technological solutions. Our team combines technical expertise with creativity to deliver products that exceed our clients' expectations."
+    },
+    "digital": {
+      "title": "We digitize your business",
+      "description": "We help you achieve your goals, expand your business, and improve every day"
+    },
+    "services": [
+      "Mobile app development",
+      "Website design and development",
+      "ERP systems",
+      "API integration",
+      "User interface design",
+      "Support and maintenance"
+    ],
+    "cta": {
+      "badge": "Our company",
+      "title": "Effective technological solutions to boost your business",
+      "description": "Discover how we can help take your business to the next level.",
+      "objectiveTitle": "Our goal:",
+      "objectives": [
+        "Increase market visibility",
+        "Custom designs to stand out",
+        "Boost your sales"
+      ],
+      "button": "Request a quote"
+    }
+  },
+  "plans": {
+    "badge": "Greatness starts HERE",
+    "title": "Our Plans"
+  },
+  "customPlan": {
+    "title": "Custom Plan",
+    "breadcrumb": "impulsoftwareware> Custom Plan",
+    "planName": "Custom Plan",
+    "quoteLabel": "Quote",
+    "feature": "Custom plan agreed with advisor",
+    "contact": {
+      "title": "Contact an advisor",
+      "description": "Contact an advisor to get a custom quote",
+      "button": "Contact advisor"
+    },
+    "form": {
+      "title": "Fill out the form",
+      "description": "Enter the quote ID and custom price provided by your advisor.",
+      "quoteId": "Quote ID",
+      "price": "Amount to pay"
+    },
+    "totals": {
+      "options": "Options amount",
+      "total": "Total"
+    },
+    "cta": "Add to cart"
+  },
+  "teamNetwork": {
+    "title": "Ready to take your business to the next level?",
+    "description": "With our interface and software development solutions",
+    "cta": "View Plans",
+    "centerAvatarAlt": "Team member",
+    "avatarAlt": "Avatar"
+  },
+  "services": {
+    "items": {
+      "mobile": "Mobile application development",
+      "web": "Web design and development",
+      "maintenance": "Software maintenance and support",
+      "api": "API integration and custom software solutions development",
+      "uiux": "User Interface (UI) and User Experience (UX) development",
+      "erp": "Enterprise Resource Planning (ERP) systems development"
+    }
+  },
+  "hero": {
+    "badge": {
+      "start": "Greatness starts",
+      "highlight": "HERE"
+    },
+    "title": "Technology solutions for your business.",
+    "cta": "View Our Plans",
+    "imageAlt": "Technology solutions illustration",
+    "decorativeAlt": "Decorative element"
+  },
+  "aboutSection": {
+    "title": "In our constant pursuit of excellence",
+    "subtitle": "We work to provide our clients with:",
+    "values": {
+      "innovation": "Innovation, quality and collaboration.",
+      "ethics": "Ethics and commitment"
+    },
+    "note": "We stay up to date with the latest trends and technologies",
+    "cta": "Get to know us",
+    "imageAlt": "Team working"
+  },
+  "pillars": {
+    "badge": "Our pillars",
+    "title": "Constant innovation and commitment to results",
+    "description": "Our pillars of excellence are reflected in our customer-focused approach, the quality of our services, and continuous innovation.",
+    "cta": "View Plans",
+    "items": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "We value creativity and originality in everything we do."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We are committed to maintaining high quality standards at every stage of our projects."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We foster an environment of collaboration and respect with our internal team and our clients."
+      },
+      "ethics": {
+        "title": "Ethics",
+        "description": "We value honesty and transparency in all our business relationships."
+      },
+      "commitment": {
+        "title": "Commitment",
+        "description": "We are committed to listening to our clients' needs"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Designed for every need",
+    "includes": "Includes:",
+    "buy": "Buy",
+    "tax": "+ VAT",
+    "cta": {
+      "badge": "Need more?",
+      "title": "Let's build a custom plan for you",
+      "button": "Custom Plan"
+    }
+  },
+  "contactSection": {
+    "badge": "Trust us",
+    "title": "We bring your ideas to implementation",
+    "description": "We offer a wide range of software development and intuitive interface design services, equipping you with the tools and experience to stand out in a competitive market.",
+    "highlights": {
+      "fastResponse": "Fast response",
+      "quality": "Quality service"
+    },
+    "form": {
+      "title": "Request a quote",
+      "fields": {
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "submit": "Send",
+      "sending": "Sending..."
+    }
+  },
+  "ctaPanel": {
+    "badge": "Get started now",
+    "title": "Discover the plans we have for you",
+    "cta": "View Plans"
+  },
+  "footer": {
+    "contactLabel": "Direct contact",
+    "navigation": {
+      "title": "Navigation",
+      "items": {
+        "about": "About us",
+        "plans": "Plans",
+        "contact": "Contact"
+      }
+    },
+    "policies": {
+      "title": "Policies",
+      "items": {
+        "terms": "Terms and conditions",
+        "privacy": "Privacy policy",
+        "refunds": "Refund policy"
+      }
+    },
+    "services": {
+      "title": "Services",
+      "items": {
+        "mobile": "Mobile apps",
+        "web": "Websites",
+        "uiux": "UX/UI Design",
+        "support": "Support & maintenance",
+        "api": "API integration",
+        "erp": "ERP systems"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Parque Granada 71\nParque de la Herradura,\nHuixquilucan, State of Mexico"
+    },
+    "copyright": "© impulsoftwareware 2026. All rights reserved."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "subtitle": "Add plans to get started",
+      "button": "Go to cart"
+    },
+    "summary": {
+      "subtotal": "Subtotal",
+      "tax": "VAT (16%)",
+      "total": "Total"
+    },
+    "checkout": "Proceed to Checkout"
+  },
+  "OfferModal": {
+    "title": "Win a discount coupon!",
+    "description": "Fill in the field and try your luck. You could win a coupon of up to 15% discount.",
+    "placeholder": "Email address",
+    "cta": "Send"
+  }
+}

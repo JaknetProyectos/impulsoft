@@ -1,0 +1,360 @@
+{
+  "CartPage": {
+    "backToStore": "Volver a la tienda",
+    "hero": {
+      "kicker": "Checkout",
+      "title": "Carrito de Compras"
+    },
+    "empty": {
+      "title": "Tu carrito está vacío",
+      "description": "Explora nuestros planes y encuentra la solución perfecta para tu negocio.",
+      "cta": "Ver Planes"
+    },
+    "item": {
+      "includes": "Incluye:",
+      "more": "+{count} más..."
+    },
+    "taxLabel": "+ IVA",
+    "summary": {
+      "title": "Resumen y pago",
+      "subtotal": "Subtotal",
+      "iva": "IVA (16%)",
+      "total": "Total",
+      "order": "Orden: {orderId}"
+    },
+    "sections": {
+      "customer": "Datos del cliente",
+      "billing": "Dirección de facturación",
+      "card": "Datos de tarjeta"
+    },
+    "form": {
+      "nombre": "Nombre completo",
+      "email": "Email",
+      "telefono": "Teléfono",
+      "direccion": "Dirección",
+      "ciudad": "Ciudad",
+      "estado": "Estado",
+      "pais": "País",
+      "cp": "Código postal",
+      "cardNumber": "Número de tarjeta",
+      "cardName": "Nombre en la tarjeta",
+      "month": "Mes",
+      "year": "Año",
+      "cvv": "CVV"
+    },
+    "placeholders": {
+      "nombre": "Nombre completo",
+      "email": "Email",
+      "telefono": "Teléfono",
+      "direccion": "Dirección",
+      "ciudad": "Ciudad",
+      "estado": "Estado",
+      "pais": "País",
+      "cp": "Código postal",
+      "cardNumber": "Número de tarjeta",
+      "cardName": "Nombre en la tarjeta",
+      "month": "MM",
+      "year": "YY",
+      "cvv": "CVV"
+    },
+    "validation": {
+      "required": "Este campo es obligatorio.",
+      "emailInvalid": "Ingresa un email válido.",
+      "phoneInvalid": "Ingresa un teléfono válido.",
+      "postalCodeInvalid": "Ingresa un código postal válido.",
+      "cardNumberInvalid": "Ingresa un número de tarjeta válido.",
+      "monthInvalid": "Mes inválido.",
+      "yearInvalid": "Ingresa 2 dígitos.",
+      "cvvInvalid": "CVV inválido."
+    },
+    "alerts": {
+      "emptyCart": {
+        "title": "Carrito vacío",
+        "message": "Agrega un plan antes de continuar con el pago.",
+        "confirm": "Entendido"
+      },
+      "reviewData": {
+        "title": "Revisa tus datos",
+        "message": "Hay campos obligatorios o datos de tarjeta que necesitan corrección.",
+        "confirm": "Corregir"
+      },
+      "success": {
+        "title": "Pago aprobado",
+        "message": "Tu pago se procesó correctamente. Recibirás un correo con tu comprobante.",
+        "confirm": "Excelente"
+      },
+      "error": {
+        "title": "Pago no completado",
+        "message": "No se pudo procesar el pago.",
+        "fallback": "No se pudo procesar el pago.",
+        "confirm": "Reintentar"
+      }
+    },
+    "buttons": {
+      "pay": "Proceder al pago",
+      "processing": "Procesando..."
+    },
+    "security": {
+      "message": "Pago seguro garantizado"
+    },
+    "paymentMethods": "Métodos de pago aceptados"
+  },
+  "header": {
+    "nav": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "services": "Servicios",
+      "plans": "Planes",
+      "contact": "Contacto"
+    },
+    "cta": "Ver planes",
+    "services": {
+      "items": {
+        "mobile": "Desarrollo de aplicaciones móviles",
+        "web": "Diseño y desarrollo de sitios web",
+        "maintenance": "Mantenimiento y soporte de software",
+        "uiux": "Desarrollo de Interfaces (UI/UX)",
+        "api": "Integración de API",
+        "erp": "Sistemas ERP"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Contáctanos",
+      "title": "¿Listo para llevar tu negocio al siguiente nivel?",
+      "description": "Contáctanos hoy mismo para conocer las necesidades de tu negocio y comenzar a trabajar juntos."
+    },
+    "cards": {
+      "address": {
+        "title": "Dirección",
+        "value": "PARQUE DE GRANADA 71, INTERIOR 504 B,\nCOLONIA PARQUES DE LA HERRADURA,\nALCALDÍA HUIXQUILUCAN, C.P. 52786,\nESTADO DE MÉXICO"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contacto@impulsoftwareware.com"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "value": "+52 55 5206 3047"
+      }
+    },
+    "cta": "Contáctanos hoy mismo para discutir las necesidades de tu empresa y trabajar juntos en tu próximo proyecto."
+  },
+  "about": {
+    "hero": {
+      "badge": "Sobre Nosotros",
+      "title": "Ofrecemos soluciones innovadoras y de calidad en el desarrollo de interfaces y software",
+      "description": "Somos una empresa dedicada al desarrollo de soluciones tecnológicas innovadoras. Nuestro equipo de profesionales combina experiencia técnica con creatividad para entregar productos que superan las expectativas de nuestros clientes."
+    },
+    "digital": {
+      "title": "Digitalizamos tu empresa",
+      "description": "Te ayudamos a alcanzar tus objetivos, expandir tu negocio y mejorar cada día"
+    },
+    "services": [
+      "Desarrollo de aplicaciones móviles",
+      "Diseño y desarrollo de sitios web",
+      "Sistemas ERP",
+      "Integración de API",
+      "Interfaces de usuario",
+      "Soporte y mantenimiento"
+    ],
+    "cta": {
+      "badge": "Nuestra empresa",
+      "title": "Soluciones tecnológicas efectivas para potenciar tu negocio",
+      "description": "Descubre cómo podemos ayudarte a llevar tu negocio al siguiente nivel.",
+      "objectiveTitle": "Nuestro objetivo:",
+      "objectives": [
+        "Tener mayor visibilidad en el mercado",
+        "Diseños personalizados para destacar",
+        "Aumento en tus ventas"
+      ],
+      "button": "Solicitar una cotización"
+    }
+  },
+  "plans": {
+    "badge": "La grandeza inicia AQUÍ",
+    "title": "Nuestros Planes"
+  },
+  "customPlan": {
+    "title": "Plan Personalizado",
+    "breadcrumb": "impulsoftwareware> Plan Personalizado",
+    "planName": "Plan Personalizado",
+    "quoteLabel": "Cotización",
+    "feature": "Plan personalizado acordado con asesor",
+    "contact": {
+      "title": "Contacta a un asesor",
+      "description": "Contacta a un asesor para obtener una cotización",
+      "button": "Contactar asesor"
+    },
+    "form": {
+      "title": "Llena el formulario",
+      "description": "Ingresa aquí el ID y precio personalizado que te compartió tu asesor.",
+      "quoteId": "ID de cotización",
+      "price": "Monto a pagar"
+    },
+    "totals": {
+      "options": "Monto de opciones",
+      "total": "Total"
+    },
+    "cta": "Agregar al carrito"
+  },
+  "teamNetwork": {
+    "title": "¿Listo para llevar tu negocio al siguiente nivel?",
+    "description": "Con nuestras soluciones de desarrollo de interfaces y software",
+    "cta": "Ver Planes",
+    "centerAvatarAlt": "Miembro del equipo",
+    "avatarAlt": "Avatar"
+  },
+  "services": {
+    "items": {
+      "mobile": "Desarrollo de aplicaciones móviles",
+      "web": "Diseño y desarrollo de sitios web",
+      "maintenance": "Mantenimiento y soporte de software",
+      "api": "Integración de API y desarrollo de soluciones de software a medida",
+      "uiux": "Desarrollo de Interfaces de Usuario (UI) y Experiencia de Usuario (UX)",
+      "erp": "Desarrollo de Sistemas de Gestión Empresarial (ERP)"
+    }
+  },
+  "hero": {
+    "badge": {
+      "start": "La grandeza inicia",
+      "highlight": "AQUI"
+    },
+    "title": "Soluciones tecnológicas para tu negocio.",
+    "cta": "Ver Nuestros Planes",
+    "imageAlt": "Ilustración de soluciones tecnológicas",
+    "decorativeAlt": "Elemento decorativo"
+  },
+  "aboutSection": {
+    "title": "En nuestra búsqueda constante de la excelencia",
+    "subtitle": "Trabajamos para ofrecer a nuestros clientes:",
+    "values": {
+      "innovation": "Innovación, calidad y colaboración.",
+      "ethics": "Ética y compromiso"
+    },
+    "note": "Nos mantenemos al tanto de las últimas tendencias y tecnologías",
+    "cta": "Conócenos",
+    "imageAlt": "Equipo trabajando"
+  },
+  "pillars": {
+    "badge": "Nuestros pilares",
+    "title": "Innovación constante y compromiso con resultados",
+    "description": "Nuestros pilares de excelencia se reflejan en nuestro enfoque centrado en el cliente, la calidad de nuestros servicios y la innovación continua.",
+    "cta": "Ver Planes",
+    "items": {
+      "innovation": {
+        "title": "Innovación",
+        "description": "Valoramos la creatividad y la originalidad en todo lo que hacemos."
+      },
+      "quality": {
+        "title": "Calidad",
+        "description": "Nos comprometemos a mantener altos estándares de calidad en cada etapa de nuestros proyectos."
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "description": "Fomentamos un ambiente de colaboración y respeto con nuestro equipo interno y nuestros clientes."
+      },
+      "ethics": {
+        "title": "Ética",
+        "description": "Valoramos la honestidad y la transparencia en todas nuestras relaciones comerciales."
+      },
+      "commitment": {
+        "title": "Compromiso",
+        "description": "Estamos comprometidos a escuchar las necesidades de nuestros clientes"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Diseñados para cada necesidad",
+    "includes": "Incluye:",
+    "buy": "Comprar",
+    "tax": "+ IVA",
+    "cta": {
+      "badge": "¿Necesitas más?",
+      "title": "Hagamos un plan a tu medida",
+      "button": "Plan Personalizado"
+    }
+  },
+  "contactSection": {
+    "badge": "Confía en nosotros",
+    "title": "Llevamos tus ideas a la implementación",
+    "description": "Ofrecemos servicios variados en desarrollo de software y diseño de interfaces intuitivas, equipándote con las herramientas y experiencia para sobresalir en un mercado competitivo.",
+    "highlights": {
+      "fastResponse": "Respuesta rápida",
+      "quality": "Calidad en el servicio"
+    },
+    "form": {
+      "title": "Solicita una cotización",
+      "fields": {
+        "name": "Nombre",
+        "phone": "Teléfono",
+        "email": "Email",
+        "subject": "Asunto",
+        "message": "Mensaje"
+      },
+      "submit": "Enviar",
+      "sending": "Enviando..."
+    }
+  },
+  "ctaPanel": {
+    "badge": "Inicia ahora",
+    "title": "Descubre los planes que tenemos para ti",
+    "cta": "Ver Planes"
+  },
+  "footer": {
+    "contactLabel": "Contacto directo",
+    "navigation": {
+      "title": "Navegación",
+      "items": {
+        "about": "Nosotros",
+        "plans": "Planes",
+        "contact": "Contacto"
+      }
+    },
+    "policies": {
+      "title": "Políticas",
+      "items": {
+        "terms": "Términos y condiciones",
+        "privacy": "Política de privacidad",
+        "refunds": "Políticas de devolución"
+      }
+    },
+    "services": {
+      "title": "Servicios",
+      "items": {
+        "mobile": "Apps móviles",
+        "web": "Sitios web",
+        "uiux": "Diseño UX/UI",
+        "support": "Soporte y mantenimiento",
+        "api": "Integración de API",
+        "erp": "Sistemas ERP"
+      }
+    },
+    "contact": {
+      "title": "Contacto",
+      "address": "Parque Granada 71\nCol. Parque de la Herradura,\nHuixquilucan, Edo Mex."
+    },
+    "copyright": "© impulsoftwareware 2026. Todos los derechos reservados."
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": {
+      "title": "Tu carrito está vacío",
+      "subtitle": "Agrega planes para comenzar",
+      "button": "Ir al carrito"
+    },
+    "summary": {
+      "subtotal": "Subtotal",
+      "tax": "IVA (16%)",
+      "total": "Total"
+    },
+    "checkout": "Proceder al Pago"
+  },
+   "OfferModal": {
+    "title": "¡Gana un cupón de descuento!",
+    "description": "Llena el campo y prueba tu suerte. Podrás ganar un cupón de hasta 15% de descuento.",
+    "placeholder": "Correo electrónico",
+    "cta": "Enviar"
+  }
+}
