@@ -17,6 +17,9 @@ function ApiIntegrationServicePage() {
 
       primaryCtaLabel="Ver planes"
 
+      heroImage="https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      introImage="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
       introTitle="¿Cómo lo hacemos?"
       introDescription="Trabajamos desde la integración de sistemas existentes hasta el desarrollo de nuevas soluciones personalizadas."
 

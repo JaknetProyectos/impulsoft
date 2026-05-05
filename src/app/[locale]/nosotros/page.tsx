@@ -50,7 +50,7 @@ export default function NosotrosPage() {
 
         <div className="bg-[#11151c] rounded-2xl p-6">
           <Image
-            src="https://ext.same-assets.com/6640246/3793909326.jpeg"
+            src="https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Our Team"
             width={600}
             height={500}
@@ -63,7 +63,7 @@ export default function NosotrosPage() {
       <section className="max-w-7xl mx-auto px-6 py-20 border-t border-slate-800 grid lg:grid-cols-2 gap-16 items-center">
         <div className="bg-[#11151c] rounded-2xl p-6">
           <Image
-            src="https://by-software.com/wp-content/uploads/2023/06/success_img.png"
+            src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg"
             alt="Success"
             width={600}
             height={500}

@@ -158,17 +158,33 @@ export function ServicePage({
                             ) : null}
                         </div>
 
-                        <GlassPanel className="p-4 md:p-5">
-                            {heroImage ?? defaultImage}
-                        </GlassPanel>
+                       <GlassPanel className="overflow-hidden p-0">
+                        {typeof heroImage === "string" ? (
+                            <img
+                                src={heroImage}
+                                alt={title}
+                                className="h-full min-h-[320px] w-full rounded-[30px] object-cover"
+                            />
+                        ) : (
+                            heroImage ?? defaultImage
+                        )}
+                    </GlassPanel>
                     </div>
                 </section>
 
                 {/* Intro */}
                 <section className="mx-auto max-w-7xl px-6 py-16 md:px-8 lg:py-20">
                     <div className="grid gap-8 lg:grid-cols-[0.92fr_1.08fr] lg:items-center">
-                        <GlassPanel className="order-2 overflow-hidden p-4 lg:order-1">
-                            {introImage ?? defaultImage}
+                        <GlassPanel className="order-2 overflow-hidden p-0 lg:order-1">
+                            {typeof introImage === "string" ? (
+                                <img
+                                    src={introImage}
+                                    alt={introTitle}
+                                    className="h-full min-h-[320px] w-full rounded-[30px] object-cover"
+                                />
+                            ) : (
+                                introImage ?? defaultImage
+                            )}
                         </GlassPanel>
 
                         <div className="order-1 lg:order-2">

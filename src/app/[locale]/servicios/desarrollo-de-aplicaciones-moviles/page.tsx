@@ -11,6 +11,8 @@ function MobileAppsServicePage() {
       title="Desarrollo de aplicaciones móviles"
       subtitle="Apps a medida para iOS y Android"
 
+      heroImage="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1206&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      introImage="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       heroDescription="Creamos aplicaciones móviles personalizadas para iOS y Android que destacan por su diseño atractivo, funcionalidad intuitiva y rendimiento excepcional."
 
       primaryCtaLabel="Ver planes"

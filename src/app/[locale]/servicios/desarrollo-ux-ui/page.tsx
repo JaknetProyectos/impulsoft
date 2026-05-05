@@ -15,6 +15,9 @@ export function UiUxServicePage() {
 
       primaryCtaLabel="Ver planes"
 
+      heroImage="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      introImage="https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?q=80&w=1076&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
       introTitle="Diseño de interfaces de usuario"
       introDescription="Creamos experiencias digitales pensadas para usuarios reales, enfocadas en usabilidad, claridad y resultados."
 
