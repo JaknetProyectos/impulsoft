@@ -76,7 +76,7 @@ export default function About() {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden border border-slate-800 bg-[#0b0f14]">
                 <Image
-                  src="https://ext.same-assets.com/6640246/3793909326.jpeg"
+                  src="https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt={t("imageAlt")}
                   width={600}
                   height={500}

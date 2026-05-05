@@ -22,7 +22,7 @@ export default function Hero() {
             <div className="relative bg-[#11151c] border border-slate-800 rounded-2xl p-6">
 
               <Image
-                src="https://ext.same-assets.com/6640246/675151848.png"
+                src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt={t("imageAlt")}
                 width={600}
                 height={500}
@@ -31,7 +31,7 @@ export default function Hero() {
               />
 
               <Image
-                src="https://ext.same-assets.com/6640246/626315545.png"
+                src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt={t("decorativeAlt")}
                 width={60}
                 height={60}
@@ -39,7 +39,7 @@ export default function Hero() {
               />
 
               <Image
-                src="https://ext.same-assets.com/6640246/151661350.png"
+                src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt={t("decorativeAlt")}
                 width={50}
                 height={50}

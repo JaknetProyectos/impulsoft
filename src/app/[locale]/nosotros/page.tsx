@@ -99,7 +99,7 @@ export default function NosotrosPage() {
         <div className="grid md:grid-cols-2 gap-10 items-center bg-[#11151c] border border-slate-800 rounded-2xl p-8">
           <div>
             <Image
-              src="https://by-software.com/wp-content/uploads/2023/06/history_img.jpg"
+              src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Historia"
               width={600}
               height={500}

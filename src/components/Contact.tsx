@@ -47,7 +47,7 @@ export default function Contact() {
           <div>
             <div className="mb-6">
               <Image
-                src="https://ext.same-assets.com/6640246/1487493906.png"
+                src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Contact icon"
                 width={50}
                 height={50}
@@ -70,7 +70,7 @@ export default function Contact() {
             <div className="flex flex-wrap gap-6">
               <div className="flex items-center gap-3 bg-[#11151c] border border-slate-800 px-4 py-3 rounded-xl">
                 <Image
-                  src="https://ext.same-assets.com/6640246/3369382463.png"
+                  src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Fast response"
                   width={28}
                   height={28}
@@ -82,7 +82,7 @@ export default function Contact() {
 
               <div className="flex items-center gap-3 bg-[#11151c] border border-slate-800 px-4 py-3 rounded-xl">
                 <Image
-                  src="https://ext.same-assets.com/6640246/749086074.png"
+                  src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Quality service"
                   width={28}
                   height={28}
