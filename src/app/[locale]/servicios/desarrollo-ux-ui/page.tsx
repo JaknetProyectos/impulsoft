@@ -2,7 +2,7 @@ import { ServicePage } from "@/components/ServicePage";
 import { Users, Layout, MousePointerClick, Palette } from "lucide-react";
 import { useLocale } from "next-intl";
 
-export function UiUxServicePage() {
+function UiUxServicePage() {
   return (
     <ServicePage
       brandName="impulsoftware"
@@ -63,7 +63,7 @@ export function UiUxServicePage() {
   );
 }
 
-export function UiUxServicePageEN() {
+function UiUxServicePageEN() {
   return (
     <ServicePage
       brandName="impulsoftware"

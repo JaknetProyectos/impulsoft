@@ -88,7 +88,7 @@ function ServicePageExample() {
     return <ServicePage {...webService} />;
 }
 
-export function WebServicePageEN() {
+function WebServicePageEN() {
     return (
         <ServicePage
             brandName="impulsoftware"

@@ -67,7 +67,7 @@ function ApiIntegrationServicePage() {
 }
 
 
-export function ApiIntegrationServicePageEN() {
+function ApiIntegrationServicePageEN() {
   return (
     <ServicePage
       brandName="impulsoftware"

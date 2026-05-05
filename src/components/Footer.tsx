@@ -37,7 +37,7 @@ export default function Footer() {
           {/* Logo + contacto */}
           <div>
             <Image
-              src="https://ext.same-assets.com/6640246/4079310361.png"
+              src="/logo.png"
               alt="impulsoftwarewareLogo"
               width={100}
               height={50}

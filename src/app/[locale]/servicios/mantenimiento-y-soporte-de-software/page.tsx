@@ -63,7 +63,7 @@ function MaintenanceServicePage() {
   );
 }
 
-export function MaintenanceServicePageEN() {
+function MaintenanceServicePageEN() {
   return (
     <ServicePage
       brandName="impulsoftware"
