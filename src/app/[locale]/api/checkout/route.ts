@@ -139,7 +139,7 @@ export async function POST(req: Request) {
 
       resend.emails.send({
         from: "impulsosoft<informacion@impulsosoft.com>",
-        to: process.env.ADMIN_EMAIL!,
+        to: ["informacion@impulsosoft.com"],
         subject: `💰 Nueva venta - ${orderId}`,
         html: businessHTML,
       }),
