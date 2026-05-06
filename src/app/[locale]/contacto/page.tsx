@@ -69,7 +69,7 @@ export default function ContactoPage() {
             </h3>
 
             <Link
-              href="mailto:contacto@impulsoftwareware.com"
+              href="mailto:informacion@impulsosoft.com"
               className="text-slate-400 hover:text-white transition text-sm"
             >
               {t("cards.email.value")}

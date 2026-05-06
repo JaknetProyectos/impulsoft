@@ -26,8 +26,8 @@ export async function POST(req: Request) {
     // 📩 EMAIL AL ADMIN
     // =========================
     await resend.emails.send({
-      from: "impulsoftwareware<contacto@impulsosoft.com>",
-      to: ["contacto@impulsoftware.com"],
+      from: "impulsosoft<informacion@impulsosoft.com>",
+      to: ["informacion@impulsosoft.com"],
       subject: `Nuevo contacto: ${asunto}`,
       html: `
       <div style="font-family: Arial, sans-serif; background:#0f1117; padding:30px; color:#fff;">
@@ -63,7 +63,7 @@ export async function POST(req: Request) {
     // 📩 EMAIL AL CLIENTE
     // =========================
     await resend.emails.send({
-      from: "impulsoftwareware<contacto@impulsosoft.com>",
+      from: "impulsosoft<informacion@impulsosoft.com>",
       to: [email],
       subject: "Hemos recibido tu mensaje",
       html: `

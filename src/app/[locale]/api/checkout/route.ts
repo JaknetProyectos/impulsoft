@@ -131,14 +131,14 @@ export async function POST(req: Request) {
     ========================== */
     await Promise.all([
       resend.emails.send({
-        from: "impulsoftwareware<contacto@impulsosoft.com>",
+        from: "impulsosoft<informacion@impulsosoft.com>",
         to: customer.email,
         subject: `🧾 Confirmación de compra - ${orderId}`,
         html: customerHTML,
       }),
 
       resend.emails.send({
-        from: "impulsoftwareware<contacto@impulsosoft.com>",
+        from: "impulsosoft<informacion@impulsosoft.com>",
         to: process.env.ADMIN_EMAIL!,
         subject: `💰 Nueva venta - ${orderId}`,
         html: businessHTML,
