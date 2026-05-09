@@ -315,9 +315,9 @@
     "policies": {
       "title": "Avisos legales",
       "items": {
-        "terms": "Términos de servicio",
-        "privacy": "Aviso de privacidad",
-        "refunds": "Política de reembolsos"
+        "terms": "TÉRMINOS Y CONDICIONES",
+        "privacy": "POLITICA DE PRIVACIDAD",
+        "refunds": "POLITICA DE DEVOLUCIÓN"
       }
     },
     "services": {
