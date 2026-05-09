@@ -5,9 +5,6 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { marked } from "marked"
 
-export function markdownToHtml(markdown: string) {
-    return marked.parse(markdown)
-}
 
 function LegalEs() {
     return (
