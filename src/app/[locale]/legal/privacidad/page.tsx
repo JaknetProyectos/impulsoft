@@ -30,7 +30,7 @@ function LegalEs() {
 
                     <p>
                         SOFTATRIX, S.A. DE C.V., con domicilio en PARQUE DE GRANADA 71, INTERIOR
-                        504 B, COLONIA PARQUES DE LA HERRADURA, ALCALDÍA HUIXQUILUCAN, C.P. 52786,
+                        504 B, COLONIA PARQUES DE LA HERRADURA,  HUIXQUILUCAN, C.P. 52786,
                         ESTADO DE MÉXICO, de conformidad con lo dispuesto en la Ley Federal de
                         Protección de Datos Personales en Posesión de los Particulares y su
                         Reglamento, hace de su conocimiento lo siguiente:
@@ -398,7 +398,7 @@ function LegalEn() {
 
                     <p>
                         SOFTATRIX, S.A. DE C.V., with address at PARQUE DE GRANADA 71, INTERIOR
-                        504 B, COLONIA PARQUES DE LA HERRADURA, ALCALDÍA HUIXQUILUCAN, ZIP CODE
+                        504 B, COLONIA PARQUES DE LA HERRADURA,  HUIXQUILUCAN, ZIP CODE
                         52786, ESTADO DE MÉXICO, in accordance with the provisions of the Federal
                         Law on Protection of Personal Data Held by Private Parties and its
                         Regulations, hereby informs you of the following:

@@ -230,7 +230,7 @@ function LegalEs() {
 
                     <p>
                         <strong>Domicilio:</strong> PARQUE DE GRANADA 71, INTERIOR 504 B, COLONIA
-                        PARQUES DE LA HERRADURA, ALCALDÍA HUIXQUILUCAN, C.P. 52786, ESTADO DE
+                        PARQUES DE LA HERRADURA,  HUIXQUILUCAN, C.P. 52786, ESTADO DE
                         MÉXICO
                     </p>
 
@@ -462,7 +462,7 @@ function LegalEn() {
 
                     <p>
                         <strong>Address:</strong> PARQUE DE GRANADA 71, INTERIOR 504 B, COLONIA
-                        PARQUES DE LA HERRADURA, ALCALDÍA HUIXQUILUCAN, ZIP CODE 52786, ESTADO DE
+                        PARQUES DE LA HERRADURA,  HUIXQUILUCAN, ZIP CODE 52786, ESTADO DE
                         MÉXICO
                     </p>
 
