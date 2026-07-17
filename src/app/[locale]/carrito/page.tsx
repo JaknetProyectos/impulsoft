@@ -215,6 +215,10 @@ export default function CartPage() {
         },
       });
 
+      if (paymentResponse.status != "APPROVED") {
+        throw new Error(t("alerts.error.message"))
+      }
+
       /* =========================
          📩 2. ENVIAR EMAILS
       ========================== */
